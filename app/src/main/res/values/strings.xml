@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">M Tenant mpesa</string>
+    <string name="m_tenant">M-Tenant</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="amount_to_pay">Amount To Pay</string>
+    <string name="proceed_to_checkout">Proceed To Checkout</string>
+</resources>
